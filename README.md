@@ -2,4 +2,4 @@
 Hi there, this is a simple AI Summarizer using Rapid Api Redux and Vite , 
 see the live app here:-
 
-https://sprightly-entremet-043da7.netlify.app/
+https://snapsutra.netlify.app/
